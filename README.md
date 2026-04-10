@@ -11,3 +11,11 @@ This project analyzes customer churn in a bank dataset.
 - Python
 - Pandas
 - Matplotlib
+
+- ## Sample Output
+
+### Churn Distribution
+![Churn Distribution](outputs/churn_distribution.png)
+
+### Churn by Age
+![Churn by Age](outputs/churn_by_age.png)
